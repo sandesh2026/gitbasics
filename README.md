@@ -1,6 +1,6 @@
 <!---<p align="center"><img width="100" src="https://avatars0.githubusercontent.com/u/38805340?s=40&v=4"></p>
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p> --->
-##This page is helpful to understand the basics of Git and GitHub
+## This page is helpful to understand the basics of Git and GitHub
 
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
