@@ -78,10 +78,6 @@ This command is used to list the version history for the current branch.
 Usage: git log --follow[file]  
 This command lists version history for a file, including the renaming of files also.  
 
-## **git show**git checkout
-Usage: git show [commit]  
-This command shows the metadata and content changes of the specified commit.  
-
 ## **git tag**
 Usage: git tag [commitID]   
 This command is used to give tags to the specified commit. 
