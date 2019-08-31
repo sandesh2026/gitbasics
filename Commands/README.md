@@ -17,7 +17,11 @@
 - git remote
 - git push
 - git pull
+- git fetch
 - git stash
+- git delete
+- git revert
+
 
 ## **git config**
 Usage: git config --global user.name “[name]”  
@@ -111,8 +115,10 @@ Usage: git push [variable name] [branch]
 This command sends the branch commits to your remote repository.   
 Usage: git push --all [variable name]  
 This command pushes all branches to your remote repository.  
-Usage: git push [variable name] :[branch name]   
-This command deletes a branch on your remote repository.   
+Usage: git push [variable_name] --delete [branch name]
+This command deletes the remote branch in your remote repository.
+Usage: git push [varibale name] --tags
+This command pushes all the tags to your remote repository
 
 ## **git pull**  
 Usage: git pull [Repository Link]  
@@ -126,8 +132,7 @@ This command restores the most recently stashed files.
 Usage: git stash list  
 This command lists all stashed changesets.  
 Usage: git stash drop  
-This command discards the most recently stashed changeset.  
-
+This command discards the most recently stashed changeset.
 
 
 
