@@ -9,4 +9,6 @@
 - [Workflows](workflows/)
 - [Basic git Commands](Commands/)
 
+![](https://github.com/sandesh2026/gitbasics/workflows/Greet%20Everyone/badge.svg)
+
 <!---This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.--->
